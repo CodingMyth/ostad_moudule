@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="interfacemain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false" nameIsGenerated="true">
+    <option name="filePath" value="$PROJECT_DIR$/.idea/libraries/interfacemain.dart" />
+    <option name="workingDirectory" value="$PROJECT_DIR$/.idea/libraries" />
+    <method v="2" />
+  </configuration>
+</component>
